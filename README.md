@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mia
 - 👀 I’m interested in coding (of course), playing piano, animals and basketball
-- 🌱 I’m currently learning Software Development and Python
+- 🌱 I’m currently learning Software Engineering and Web disign/development
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: know me in real life
 - ⚡ Fun fact: I am pretty swag once you get to know me
