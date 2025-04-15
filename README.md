@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Mia
-- 👀 I’m interested in coding (of course), playing piano, animals and basketball
-- 🌱 I’m currently learning Software Engineering and Web design/development
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me: know me in real life
-- ⚡ Fun fact: I am pretty swag once you get to know me
+
+- 👀 I’m into coding (obviously), playing piano, and basketball
+
+- 🌱 Currently learning Software Engineering, Web Dev, and Operating Systems
+
+- 💞️ Not looking to collaborate on anything right now
+
+- 📫 How to reach me: you gotta know me IRL
+
+- ⚡ Fun fact: I’m pretty swag once you get to know me
 
 <!---
 Miakpalmer/Miakpalmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
