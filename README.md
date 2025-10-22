@@ -2,7 +2,7 @@
 
 - 👀 I’m into coding (obviously), playing piano, and basketball
 
-- 🌱 Currently learning Software Engineering, Web Dev, and Operating Systems
+- 🌱 Currently learning Software Engineering, Distributed Systems, Algorithms in Theory and Practice, and Machine Learning
 
 - 💞️ Not looking to collaborate on anything right now
 
